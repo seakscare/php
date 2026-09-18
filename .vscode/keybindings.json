@@ -1,0 +1,10 @@
+[
+	{
+		"key": "ctrl+alt+c",
+		"command": "extension.ecsstractor_port_run"
+	},
+	{
+		"key": "ctrl+alt+backspace",
+		"command": "workbench.files.action.collapseExplorerFolders"
+	}
+]
